@@ -3,10 +3,6 @@ application:
   name: "react-shop-app"
   project: "react-api-app"
   organization: "QoveryCommunity"
-databases:
-- type: "MYSQL"
-  name: "shopdb"
-  version: "8.0"
 routers:
 - name: "main-react-shop-app"
   routes:
