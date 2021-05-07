@@ -1,7 +1,7 @@
 ---
 application:
   name: "react-shop-app"
-  project: "react-api-app"
+  project: "react-shop-app"
   organization: "QoveryCommunity"
 routers:
 - name: "main-react-shop-app"
